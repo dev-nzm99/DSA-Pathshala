@@ -2,7 +2,7 @@
 [![Language](https://img.shields.io/badge/Language-Bangla-blue)](https://github.com/) 
 [![Topic](https://img.shields.io/badge/Topic-DSA-green)](https://github.com/) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=670&lines=%E2%9C%8D%EF%B8%8F+%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC+Data+Structures+%26+Algorithms+%E0%A6%B6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B0+%E0%A6%AA%E0%A6%A5%E0%A6%9A%E0%A6%B2%E0%A6%BE++;%E2%AD%90+Created+with+%E2%9D%A4%EF%B8%8F+by+Nazmul+Islam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=670&lines=%E2%9C%8D%EF%B8%8F+%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE+%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC+Data+Structures+%26+Algorithms+%E0%A6%B6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B0+%E0%A6%AA%E0%A6%A5%E0%A6%9A%E0%A6%B2%E0%A6%BE++;Created+with+%E2%9D%A4%EF%B8%8F+by+Nazmul+Islam)](https://git.io/typing-svg)
 ---
 
 ## 🧩 প্রথম পর্ব : পরিচয়
