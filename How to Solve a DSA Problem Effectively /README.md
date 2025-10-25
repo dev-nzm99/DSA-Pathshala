@@ -72,4 +72,4 @@ Dry-running code with pen and paper may feel old-school, but it forces you to th
 
 Effective DSA problem-solving isn’t about brute force or speed, it’s about clarity, patience, and a strong foundation in fundamentals.
 
-DSA is a skill, and like any skill, it gets better with mindful practice.
+> DSA is a skill, and like any skill, it gets better with mindful practice.
