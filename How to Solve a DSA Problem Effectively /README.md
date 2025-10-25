@@ -6,7 +6,7 @@ Many beginners (including myself once) rush into writing code, hoping the logic 
 
 Over time, I learned to adopt a more thoughtful, effective way of tackling DSA problems — and it changed everything.
 
-In this post, I’ll share 4 key principles that helped me go from guessing solutions to confidently solving problems with depth and clarity.
+In this article, I’ll share 4 key principles that helped me go from guessing solutions to confidently solving problems with depth and clarity.
 
 ## 1. Understand the Concept Before the Code
 
@@ -22,7 +22,7 @@ Take DFS (Depth-First Search) as an example. If you don’t understand what it a
 
 Once the concept is solid, the code becomes a translation of your thinking—not guesswork.
 
-**Tips 💡:** Watch visual explanations (YouTube) and then try to explain the concept in your own words.
+`Tips 💡:` *Watch visual explanations (YouTube) and then try to explain the concept in your own words.*
 
 ## 2. Ask “Why?” at Every Step
 
@@ -37,7 +37,7 @@ When solving a problem, don’t just memorize the steps.
 - Why is this algorithm O(n log n) instead of O(n²)?
 - Why does this edge case break our code?
 
-Asking “why” helps you build intuition, and that helps you recognize patterns in new problems — which is exactly what interviewers look for.
+Asking `“why”` helps you build intuition, and that helps you recognize patterns in new problems — which is exactly what interviewers look for.
 
 ## 3. Struggle is Part of the Process
 
@@ -45,8 +45,8 @@ Struggling is where the learning happens 🙂
 
 It’s normal to spend hours on a problem and feel stuck. But if you push through and figure it out or understand the solution deeply, that experience sticks with you far more than skimming 10 easy problems.
 
-**Don’t measure success by how many problems you solve 🥴**  
-**Measure it by how well you understand what you solved.**
+> **Don’t measure success by how many problems you solve 🥴**  
+> **Measure it by how well you understand what you solved.**
 
 **Some mindset shifts:**
 
