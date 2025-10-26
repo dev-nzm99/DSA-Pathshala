@@ -31,4 +31,4 @@ Mastering Data Structures and Algorithms requires not just solving problems, but
 2. Explore each pattern and try solving example problems  
 3. Apply these patterns in your daily practice to **level up your problem-solving skills**  
 
-*Happy Coding*😊
+*Good luck and Happy Coding*😊
