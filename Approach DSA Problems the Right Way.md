@@ -1,4 +1,9 @@
-# The Journey of Learning DSA
+
+<p align="center">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Approach%20DSA%20Problems%20.webp" width="80%">
+   
+</p>
+
 
 When I first started with DSA, I thought I was dumb.  
 Seriously.  
