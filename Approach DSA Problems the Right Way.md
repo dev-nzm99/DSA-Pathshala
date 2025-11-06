@@ -7,7 +7,9 @@ I would open a problem, read it three times, and still have no clue what to do. 
 
 But with time, I realized something: everyone goes through this phase. Even the best coders you see on YouTube or Codeforces started the same way — confused, stuck, and dependent on solutions.
 
-And the right approach to DSA is not to avoid that phase, but to go through it in the right way. Let me explain.
+And the right approach to DSA is not to avoid that phase, but to go through it in the right way. 
+
+Let me explain.
 
 ---
 
