@@ -6,7 +6,7 @@
 
 
 When I first started with DSA, I thought I was dumb.  
-Seriously.  
+Seriously!
 
 I would open a problem, read it three times, and still have no clue what to do. Then I’d click on the solution, copy it, and feel guilty like I was cheating.  
 
