@@ -73,7 +73,7 @@ Pseudocode helps you avoid confusion during implementation.
 
 ---
 
-## Summary
+### Summary
 This 7-step process ensures a clean, structured, and optimized way to solve any DSA problem:
 1. Understand  
 2. Strategy + Edge Cases  
